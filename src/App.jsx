@@ -1,5 +1,5 @@
 import React from 'react'
-import Card from './compnents/card'
+import Card from './compnents/Card'
 
 const App = () => {
   return (
