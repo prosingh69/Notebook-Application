@@ -30,5 +30,5 @@ I created this application using **React**, and honestly, the experience was ama
 <img width="1802" height="818" alt="Screenshot 2026-01-30 232044" src="https://github.com/user-attachments/assets/07d7f30b-5fc9-4f04-bf06-b42f5b096427" />
 
 
-## 🚀 How to Run Locally
-* 
+## 🚀 How to Run 
+* https://notebook-appli.netlify.app/
